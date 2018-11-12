@@ -1,0 +1,8 @@
+{
+    "api": "",
+    "dependencies": "",
+    "description": "Partial Implementation of NodeJs' Assert library",
+    "name": "AssertNodeJs",
+    "version": 5,
+    "visibility": "system"
+}

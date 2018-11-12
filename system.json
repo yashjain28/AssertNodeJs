@@ -1,0 +1,10 @@
+{
+    "auth": true,
+    "deployments": [],
+    "description": "Partial Implementation of NodeJs' Assert library",
+    "messaging_url": "messaging.clearblade.com:1883",
+    "name": "AssertNodeJs",
+    "platform_url": "https://platform.clearblade.com",
+    "system_key": "9ee09bbe0becf9d19ac1c9bcf28e01",
+    "system_secret": ""
+}
